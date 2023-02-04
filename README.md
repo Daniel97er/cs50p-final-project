@@ -1,7 +1,5 @@
 # Combinatoric-task-solver
 
-## Video Demo: "https://youtu.be/dJJR2qL6vcY"
-
 ## Description
 
   This is my final project for the Harvard python online
